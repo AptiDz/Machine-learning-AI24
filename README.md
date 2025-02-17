@@ -1,4 +1,6 @@
-# Machine learning (AI23)
+# Maskininlärning AI24 Apti Dzhamurzaev
+
+ISLP folder credits goes to their creators: Gareth James, Daniela Witten, Trevor Hastie, Rob Tibshirani, Jonathan Taylor. See the source "https://www.statlearning.com/resources-python"
 
 This is a course with focus of learning concepts in machine learning using **scikit-learn**. This course will build upon prior skills in:
 
